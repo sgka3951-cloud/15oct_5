@@ -98,21 +98,21 @@ Your age is 27 years, 6 months, and 15 days.
 
 ```
 Enter your Date of Birth (DD/MM/YYYY): 31/02/2020
-Error: Invalid date format. Please enter a valid date in DD/MM/YYYY format.
+Error: Invalid date format. Please enter date in DD/MM/YYYY format.
 ```
 
 **Future date:**
 
 ```
 Enter your Date of Birth (DD/MM/YYYY): 25/12/2099
-Error: Date of birth cannot be in the future.
+Error: Date of birth cannot be in the future: 25/12/2099
 ```
 
 **Wrong format:**
 
 ```
 Enter your Date of Birth (DD/MM/YYYY): 1998-08-15
-Error: Invalid date format. Please enter a valid date in DD/MM/YYYY format.
+Error: Invalid date format. Please enter date in DD/MM/YYYY format.
 ```
 
 ## Features
