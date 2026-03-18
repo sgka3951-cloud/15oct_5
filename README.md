@@ -115,7 +115,7 @@ The application provides user-friendly error messages for all invalid input scen
 
 ```plaintext
 Enter your Date of Birth (DD/MM/YYYY): 31/02/2020
-Invalid date. Please enter a valid date in DD/MM/YYYY format.
+Invalid date format. Please use DD/MM/YYYY format.
 ```
 
 ### Future Date
